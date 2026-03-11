@@ -25,52 +25,50 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
-<img width="887" height="111" alt="image" src="https://github.com/user-attachments/assets/dbe01196-07dc-4a59-8f77-129aa05a7c94" />
+<img width="887" height="111" alt="image" src="https://github.com/user-attachments/assets/504ff1cf-ff37-4e5b-be30-32fba5ebba92" />
+
 
 
 Remove the directory "my-folder"
 ## COMMAND AND OUTPUT
+<img width="911" height="55" alt="image" src="https://github.com/user-attachments/assets/c0a14bdc-3531-4e45-9433-72c9447893c1" />
+
 
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
 
-<img width="767" height="107" alt="image" src="https://github.com/user-attachments/assets/51272f60-c782-4e9d-8ac6-6479a250e932" />
+<img width="767" height="107" alt="image" src="https://github.com/user-attachments/assets/f3606bf1-2e9d-484d-8223-f5d3f1519259" />
 
-<img width="827" height="258" alt="image" src="https://github.com/user-attachments/assets/da08de66-9af1-490c-9de5-d012ea50e9bf" />
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
-<img width="819" height="107" alt="image" src="https://github.com/user-attachments/assets/ff1e4a6f-a267-4b61-a658-8189100dc53f" />
-
+<img width="819" height="107" alt="image" src="https://github.com/user-attachments/assets/0bf3ce17-cf29-4871-aa63-7294875fcd82" />
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-<img width="671" height="62" alt="image" src="https://github.com/user-attachments/assets/2980c81b-f9d1-4e8c-91c7-4fea4bd03396" />
-
+<img width="671" height="62" alt="image" src="https://github.com/user-attachments/assets/a6848f83-1e9e-43c9-9628-28789f810893" />
 
 Remove the file hello1.txt
 
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
-<img width="658" height="171" alt="image" src="https://github.com/user-attachments/assets/0a564d49-d027-467a-a586-855abb6c355a" />
-
+<img width="658" height="171" alt="image" src="https://github.com/user-attachments/assets/156ac8bf-b976-4cae-8b2b-925e5d823f4c" />
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
-<img width="614" height="218" alt="image" src="https://github.com/user-attachments/assets/37b1a96a-b22f-438d-824d-3e3f1011bbbe" />
+![Uploading image.png…]()
 
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
-<img width="574" height="613" alt="image" src="https://github.com/user-attachments/assets/8aa73f02-8362-406b-a8f6-f2c36138fe17" />
-
+![Uploading image.png…]()
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
@@ -79,7 +77,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 set name=John
 echo Hello, %name%!
 pause
-~~
+~~~
 
 ## OUTPUT
 <img width="506" height="80" alt="image" src="https://github.com/user-attachments/assets/6de5779c-bfe2-479d-9d82-8bd5348dcedc" />
